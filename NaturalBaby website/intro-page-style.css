@@ -1,0 +1,55 @@
+@charset "utf-8";
+#wrapper {
+	height: 1200px;
+	width: 1600px;
+	background-image: url(images/INTRO%20X2/IN-B.png);
+	background-repeat: no-repeat;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#title {
+	height: 424px;
+	display:inline-block;
+}
+
+#titleImage {
+	height: 261px;
+	width: 366px;
+	margin-top: 132px;
+	margin-left: 619px;
+	margin-bottom: 0px;
+}
+
+#flashBody {
+	height: 386px;
+	display:inline-block;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 0px;
+}
+
+#bottomContent {
+	height: 390px;
+}
+
+#entryIntro {
+	height: 102px;
+	width: 760px;
+	background-image: url(images/INTRO%20X2/IN-T.png);
+	margin-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#entryBody {
+	height: 28px;
+	width: 268px;
+	background-image: url(images/INTRO%20X2/IN-ENTER.png);
+	background-repeat: no-repeat;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+}
